@@ -2,7 +2,7 @@
 ## Introduction
 The casual storage location of Spring Boot Sessions is managed by Ehacahe or Redis.
 Besides that, the session can be stored in a database.
-## Source#
+## Source
 The following links show examples of implementing the approaches:
 - https://docs.spring.io/spring-session/reference/index.html
 - Redis - https://docs.spring.io/spring-session/reference/guides/boot-redis.html
